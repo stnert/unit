@@ -44,7 +44,7 @@
     "glob": "7.1.6",
     "http-errors": "1.8.0",
     "is-ip": "3.1.0",
-    "joi": "17.4.0",
+    "joi": "17.7.0",
     "node-fetch": "3.0.0",
     "querystring": "0.2.0",
     "resize-observer-polyfill": "1.5.1",
