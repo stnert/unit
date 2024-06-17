@@ -48,7 +48,7 @@
     "node-fetch": "3.0.0",
     "querystring": "0.2.0",
     "resize-observer-polyfill": "1.5.1",
-    "ws": "7.4.4"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@types/base-64": "1.0.0",
